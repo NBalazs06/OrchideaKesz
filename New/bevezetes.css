@@ -67,3 +67,17 @@ p {
 body {
     background-image: linear-gradient(white, orchid, yellow, orchid, white);
 }
+
+#meret img {
+    max-width: 100%;
+    height: auto;
+}
+
+#meret {
+    max-width: 600px;
+    margin: auto;
+}
+
+#nagyiticon {
+    font-size: 2em;
+}
